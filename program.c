@@ -137,7 +137,7 @@ int main() {
             Player_coord=Player_Pre; // 변환된 현재 위치를 이전 위치로 변경
         }
 
-        Player_Pre=Player_coord;
+        Player_Pre=Player_coord; //이전 위치 갱신
 
         if (newMobTerm >= 200) { // 1당 0.05초
             newMobTerm=0;
