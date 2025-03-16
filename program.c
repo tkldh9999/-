@@ -225,6 +225,8 @@ int main() {
 
     
     TP(0,0);
+    free(mobs);
+    free(projectiles);
     printf("사망! 점수 : %d",score); // 사망
     Sleep(10000);
 
