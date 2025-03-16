@@ -32,3 +32,32 @@ gcc 있어야 작동합니다.
 10초마다 외계인이 불어납니다.
 
 뭐 끝이에요. 네
+
+# english translated
+I’m a high school student and I’m in a club where we work with Arduino.
+
+So, I guess I need to master C, right?
+
+This is a game I made while learning C.
+
+It was pretty hard.
+
+It’s a bit strange.
+
+Originally, I wanted to create my own programming language, but it’s too difficult, so I’ve put it on hold for now.
+
+Still, it’s fun.
+
+The language used is... well, as mentioned, C.
+
+I also made a compiler for it.
+
+You need gcc to make it work.
+
+The game... well, you survive from aliens that shoot lasers at you.
+
+The laser detection is weird. To be precise, it’s quite lenient.
+
+Aliens spawn every 10 seconds.
+
+That’s it. Yeah.
